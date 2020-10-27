@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 1367,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/export-azure-resource-manager-(arm)-role-based-access-control-(rbac)-assignments/master/Export-AzureRMRoleAssignment.ps1",
+    "DownloadCount": 2546,
+    "Id": "Export-Azure-Resource-092b9c2a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 38,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-1-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script allows you to export the current Azure Resource Manager (ARM) Role Based Access Control (RBAC) Permissions.It will loop through all subscriptions that you have access to and export the permissions.It will create an individual CSV file on the desktop per subscription.T",
+    "Title": "Export Azure Resource Manager (ARM) Role Based Access Control (RBAC) Assignments",
+    "UpdatedDate": "2018-5-8T00:00:00",
+    "Url": "https://github.com/azureautomation/export-azure-resource-manager-(arm)-role-based-access-control-(rbac)-assignments",
+    "UserTags": "Azure, RBAC, Owner"
+}
